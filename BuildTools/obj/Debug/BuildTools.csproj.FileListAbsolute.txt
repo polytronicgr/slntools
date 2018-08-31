@@ -1,0 +1,6 @@
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\bin\Debug\BuildTools.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\bin\Debug\BuildTools.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\obj\Debug\BuildTools.csprojAssemblyReference.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\obj\Debug\BuildTools.csproj.CoreCompileInputs.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\obj\Debug\BuildTools.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\BuildTools\obj\Debug\BuildTools.pdb

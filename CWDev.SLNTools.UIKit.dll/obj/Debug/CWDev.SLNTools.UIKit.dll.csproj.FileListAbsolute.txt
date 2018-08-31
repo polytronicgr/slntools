@@ -1,0 +1,16 @@
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\bin\Debug\CWDev.SLNTools.UIKit.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\bin\Debug\CWDev.SLNTools.UIKit.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\bin\Debug\CWDev.SLNTools.Core.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\bin\Debug\CWDev.SLNTools.Core.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.dll.csprojAssemblyReference.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.CompareSolutionsForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.CreateFilterForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.MergeSolutionsForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.OperationTypeConflictResolverForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.UpdateOriginalSolutionForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.ValueConflictResolverForm.resources
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.dll.csproj.GenerateResource.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.dll.csproj.CoreCompileInputs.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.dll.csproj.CopyComplete
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.UIKit.dll\obj\Debug\CWDev.SLNTools.UIKit.pdb

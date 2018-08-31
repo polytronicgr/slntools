@@ -1,0 +1,11 @@
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\SLNTools.exe
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\SLNTools.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\CWDev.SLNTools.Core.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\CWDev.SLNTools.UIKit.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\CWDev.SLNTools.Core.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\CWDev.SLNTools.UIKit.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe.csprojAssemblyReference.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe.csproj.CoreCompileInputs.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe.csproj.CopyComplete
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.pdb

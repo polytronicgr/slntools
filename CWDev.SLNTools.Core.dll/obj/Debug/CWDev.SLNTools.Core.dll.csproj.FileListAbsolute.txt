@@ -1,0 +1,6 @@
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\bin\Debug\CWDev.SLNTools.Core.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\bin\Debug\CWDev.SLNTools.Core.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\obj\Debug\CWDev.SLNTools.Core.dll.csprojAssemblyReference.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\obj\Debug\CWDev.SLNTools.Core.dll.csproj.CoreCompileInputs.cache
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\obj\Debug\CWDev.SLNTools.Core.dll
+C:\Users\Schulz-Theissen\Source\Repos\slntools\CWDev.SLNTools.Core.dll\obj\Debug\CWDev.SLNTools.Core.pdb
