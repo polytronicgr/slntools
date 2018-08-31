@@ -9,3 +9,4 @@ C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.e
 C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe.csproj.CopyComplete
 C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.exe
 C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\obj\Debug\SLNTools.pdb
+C:\Users\Schulz-Theissen\Source\Repos\slntools\SLNTools.exe\bin\Debug\SLNTools.exe.config
